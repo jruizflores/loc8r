@@ -2,3 +2,4 @@
 /.settings
 /bin
 /node_modules
+/nbproject/private/
