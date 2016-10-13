@@ -1,2 +1,2 @@
 Getting MEAN with Mongo, Express, Angular and Node
-102 - Adding Review Page
+106 - Take the data out of the views and make it smarter
