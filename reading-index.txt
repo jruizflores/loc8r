@@ -1,2 +1,2 @@
 Getting MEAN with Mongo, Express, Angular and Node
-114 - Defining Jade mixins
+120 - Building a data model with MongoDB and Mongoose
